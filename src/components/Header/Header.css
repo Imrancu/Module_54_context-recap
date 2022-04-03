@@ -1,0 +1,9 @@
+nav a{
+  text-decoration: none;
+  color: dimgrey;
+  margin-right: 20px;
+
+}
+nav a:hover{
+  color:black;
+}
